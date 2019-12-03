@@ -1,3 +1,9 @@
+pix (2.2.1-1~ubuntuReleaseName1) ubuntuReleaseName; urgency=medium
+
+  * Remove 'scrollkeeper' as a dependency
+
+ -- embrosyn <embrosyn@netc.eu>  Wed, 04 Dec 2019 00:19:32 +0100
+
 pix (2.2.1-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
 
   * New upstream release
